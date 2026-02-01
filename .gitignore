@@ -1,0 +1,14 @@
+# data (usually not committed)
+data/raw/
+data/processed/
+
+# powerbi temp
+*.pbix.tmp
+*.pbit.tmp
+
+# system
+.DS_Store
+Thumbs.db
+
+# secrets
+.env
